@@ -26,7 +26,7 @@ git clone https://github.com/ayalamarcelo/cac-project.git
 ## Contributing
 
 - Fork the repository
-- Clone your forked repository to your local machine:
+- Clone your forked repository to your local:
 
 ```bash
 
